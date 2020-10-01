@@ -1,0 +1,2 @@
+# FOMIN2LAB
+c++
