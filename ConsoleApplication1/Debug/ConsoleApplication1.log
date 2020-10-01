@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+c:\users\пользователь\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(4): warning C4081: требуется "newline"; обнаружен ";"
+c:\users\пользователь\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(18): warning C4551: в вызове функции отсутствует список аргументов
+  ConsoleApplication1.vcxproj -> C:\Users\Пользователь\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
